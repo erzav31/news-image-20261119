@@ -1,4 +1,4 @@
-// news-image-20261119 — "The World in One Day" (19 Nov 2026 poster).
+// news-image-20261119 v2 — "The World in One Day" (19 Nov 2026 poster).
 // Node 22, standard library only. The entry image sits beside this file as
 // entry.png; the program copies it to /output/entry.png (or to
 // MAKEFUN_OUTPUT_DIR when set, for local runs). No network, no randomness:
